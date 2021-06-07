@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  this is file1 from master branch
+=======
+this is file1 from devlop branch
+>>>>>>> devlop
